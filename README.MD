@@ -26,6 +26,7 @@ Not just encryptions, but hashes and encodings too.
 * Vigenère cipher
 * Affine cipher
 * Transposition Cipher
+* Frits' Handwriting
 * Pig Latin
 * Morse Code
 * Ascii
